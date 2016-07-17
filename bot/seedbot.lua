@@ -219,7 +219,7 @@ function create_config( )
     "download_media",
     "invite",
     "all"
-    },
+    sudo_user={benyamin1200}--sudo users
     sudo_users = {160553465},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
